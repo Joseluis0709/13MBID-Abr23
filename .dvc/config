@@ -1,4 +1,8 @@
 [core]
-    remote = storage
+    remote = jose-storage
 ['remote "storage"']
     url = ../.storage
+['remote "storage2"']
+    url = ../.storage2
+['remote "jose-storage"']
+    url = ../.jose-storage

@@ -161,4 +161,4 @@ cython_debug/
 
 examples/mlruns
 mlruns
-.storage
+.jose-storage
