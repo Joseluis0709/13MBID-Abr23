@@ -1,8 +1,11 @@
 [core]
-    remote = jose-storage
+    remote = storagej
+    autostage = true
 ['remote "storage"']
     url = ../.storage
 ['remote "storage2"']
     url = ../.storage2
 ['remote "jose-storage"']
     url = ../.jose-storage
+['remote "storagej"']
+    url = ../.storagej
